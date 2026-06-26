@@ -4,7 +4,7 @@
  
 - I built this because manual DevTools analysis tends to be repetitive and error-prone when you're covering the same surface across dozens of targets. Rather than re-typing one-liners from memory or pulling snippets from scattered notes, I wanted a single, organized toolkit I could paste selectively depending on what the target's behavior suggested.
 
-                                          "When you can break it, help mend it" - Unknown author
+                                "When you can break it, help mend it" - Unknown author
 
 ### `Philosophy`
 
